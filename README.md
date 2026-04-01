@@ -147,4 +147,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built with ❤️ and Python • <a href="https://github.com/parnika-sa/Job_finder">parnika-sa/Job_finder</a></p>
+<p align="center">Built with ❤️ and Python • <a href="https://github.com/parnika-sa/Job_finder">Ankit maurya</a></p>
